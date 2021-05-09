@@ -23,6 +23,11 @@ h2 {
   margin-bottom: 0px;
 }
 
+h3 {
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+
 #navbar {
   overflow: hidden;
   background-color: #333;
